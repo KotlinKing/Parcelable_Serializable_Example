@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Parcelable_Serializable_Example</string>
+    <string name="txtSendParcelable">Sending your Feedback via Parcelable</string>
+    <string name="txtSendSerializable">Click Start to Send Data via Serializable</string>
+    <string name="txtEnterName">Enter your Full Name</string>
+    <string name="txtStart">Start</string>
+    <string name="txtSubmitFeedback">Submit Feedback</string>
+    <string name="txtEnterFeedback">Enter your Feedback</string>
+    <string name="txtStartAgain">Start Again</string>
+    <string name="txtFeedback">Your Feedback</string>
+    <string name="txtGreet">Hello, %1$s! Please Submit your feedback.</string>
+</resources>
